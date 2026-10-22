@@ -8,7 +8,7 @@
     "loginDisplay": "S3V3NT3ST",
     "name": "Progamer1488",
     "accountType": 0,
-    "level": 24,
+    "level": 60,
     "premiumPoints": 4,
     "eventTickets": 20,
     "experience": 95346741,
